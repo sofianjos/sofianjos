@@ -1,7 +1,7 @@
 ### Olá! ପ(๑•ᴗ•๑)ଓ ♡
 
 
-- 🦋 Estou estudando progrmação full-stack!
+- 🦋 Estou estudando programação full-stack!
 - 🦋 Pronomes: ela/dela
 
 <div align="center">
