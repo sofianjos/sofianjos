@@ -1,8 +1,7 @@
 ### Olá! ପ(๑•ᴗ•๑)ଓ ♡
 
 
-- 🦋 Estou estudando programação full-stack!
-- 🦋 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/sofianjos">
